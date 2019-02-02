@@ -1,0 +1,2 @@
+#### Think of a web-based application you would like to make. Use the strategy activities to determine your business goals and user needs
+###### Use the trade-off equation to rank opportunities based on importance and viability/feasibility
